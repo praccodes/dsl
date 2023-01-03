@@ -1,8 +1,10 @@
+// Animesh cahturvedi 7208
 
 #include<bits/stdc++.h> 
 using namespace std;  
 int main ()  
 {  
+    // declaration of the variables and array  
     int arr[100], st, mid, end, i, num, tgt;  
       
     cout << " Define the size of the array: " << endl;  

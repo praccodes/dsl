@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void bubble_sort(float arr1[], int size)
+v oid bubble_sort(float arr1[], int size)
 {
         cout<<"//////////////////////////////Bubble Sort/////////////////////////////"<<endl;
         float arr[size];
